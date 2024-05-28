@@ -1,0 +1,17 @@
+header{
+btn-inactive,btn-active,btn-active,btn-active,btn-active
+}
+row{
+double{
+small-title,text,btn-orange
+}
+double{
+small-title,text,btn-orange
+}
+double{
+small-title,text,btn-orange
+}
+double{
+small-title,text,btn-orange
+}
+}

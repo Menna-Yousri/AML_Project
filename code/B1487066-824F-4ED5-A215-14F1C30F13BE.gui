@@ -1,0 +1,16 @@
+header{
+btn-active,btn-inactive,btn-active,btn-active
+}
+row{
+single{
+small-title,text,btn-orange
+}
+}
+row{
+btn-green{
+small-title,text,btn-orange
+}
+btn-green{
+small-title,text,btn-orange
+}
+}
